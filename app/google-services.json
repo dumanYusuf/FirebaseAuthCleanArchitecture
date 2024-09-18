@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97510899574",
+    "project_id": "cleanfirebaseauth",
+    "storage_bucket": "cleanfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97510899574:android:d69076917caefa8a360457",
+        "android_client_info": {
+          "package_name": "com.example.cleanfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGpr6PDYwD0B1cYA_drFEC_PahloKWsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
